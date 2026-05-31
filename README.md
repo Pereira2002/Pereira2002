@@ -87,7 +87,7 @@ Desarrollador Full Stack con experiencia construyendo aplicaciones web y moviles
 ## 📫 Contacto
 
 [![Email](https://img.shields.io/badge/josepablopereira2002@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:josepablopereira2002@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/jose-pablo-pereira-altamirano-633516258](https://www.linkedin.com/in/jos%C3%A9-pablo-pereira-altamirano-633516258/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jos%C3%A9-pablo-pereira-altamirano-633516258/)
 [![Portafolio](https://img.shields.io/badge/Portafolio-000000?style=for-the-badge&logo=netlify&logoColor=white)](https://pereirajoseportafolio.netlify.app/)
 [![Teléfono](https://img.shields.io/badge/8446_6759_(CR)-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/50684466759)
 

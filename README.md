@@ -77,7 +77,7 @@ Desarrollador Full Stack con experiencia construyendo aplicaciones web y moviles
 **Full Stack Developer — Icosoft** `Feb 2025 – May 2025`
 - Desarrollo de módulos web y móviles con .NET + React Native
 - Endpoints REST, SQL Server, validación funcional
-- Code reviews, debugging, SCRUM bien vivido (dailies, planning, retrospectivas)
+- Code reviews, debugging, SCRUM (dailies, planning, retrospectivas)
 
 **Full Stack Developer — VehixControl (Proyecto universitario)** `1 año`
 - De los requerimientos al despliegue: modelado, CRUDs, soporte a usuarios reales, minutas técnicas

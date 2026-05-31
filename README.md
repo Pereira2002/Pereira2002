@@ -1,6 +1,6 @@
 # 👋 Hola, soy José Pablo Pereira
 
-Desarrollador Full Stack con experiencia construyendo aplicaciones web y moviles sobre el ecosistema .NET (C#) en backend y React / React Native en frontend.Familiarizado con arquitecturas RESTful, integracion de APIs, gestion de bases de datos SQL Server y control de versiones con Git.Solida comprension del ciclo completo de desarrollo de software bajo metodologias a giles ( SCRUM), d esde e l levan-tamiento de requerimientos hasta la validacion funcional y despliegue. 🌎.
+Desarrollador Full Stack con experiencia construyendo aplicaciones web y moviles sobre el ecosistema .NET (C#) en backend y React / React Native en frontend.Familiarizado con arquitecturas RESTful, integracion de APIs, gestion de bases de datos SQL Server y control de versiones con Git.Solida comprension del ciclo completo de desarrollo de software bajo metodologias a giles ( SCRUM), d esde e l levan-tamiento de requerimientos hasta la validacion funcional y despliegue🌎.
 
 ---
 
